@@ -1,0 +1,5 @@
+### Prevendo Vendas 
+
+A ideia deste Notebook é criar uma previsão de vendas, utilizando  CatBoost. 
+
+O dataset teve sua fonte como o kaggle, estando já a base dividida.
